@@ -28,7 +28,7 @@ Interactions between different humans and population groups can be simulated usi
 * Generated data from simulations to analyze the results
 * Unit Tests for checking the interaction values
 
-# Gavity Simulation
+# Gravity Simulation
 
 # Covid Simulation
 
