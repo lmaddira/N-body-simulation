@@ -1,6 +1,5 @@
 ## N-body-simulation
-N-body problem is the problem of predicting motions of a group of objects.Accurate simulation of this dynamic problem is considered difficult to solve due to
-computational complexity and numerical simulation of physics.N-body simulation is chaotic system that is highly dependent on the initial conditions and the temporal discretization.N-body simulation can also be used for imposing collective behavior of bodies like in swarm robotics.Our goal will be to create a simulation structure and use various runtime optimization methods.
+N-body problem is the problem of predicting motions of a group of objects.Accurate simulation of this dynamic problem is considered difficult to solve due to computational complexity and numerical simulation of physics.N-body simulation is chaotic system that is highly dependent on the initial conditions and the temporal discretization.N-body simulation can also be used for imposing collective behavior of bodies like in swarm robotics.Our goal will be to create a simulation structure and use various runtime optimization methods.
 
 # Gravity_sim
 Simulation of large set of celestial bodies interaction with gravity. Accurate simulation of this dynamic problem is considered difficult to solve due to
